@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<users>
+    <user>
+        <id>0</id>
+        <username>callum</username>
+        <password>5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8</password>
+        <firstName>Callum</firstName>
+        <lastName>Gooding</lastName>
+    </user>
+    <user>
+        <id>1</id>
+        <username>rachael</username>
+        <password></password>
+        <firstName>Rachael</firstName>
+        <lastName>Gooding</lastName>
+    </user>
+</users>
